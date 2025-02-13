@@ -1,2 +1,2 @@
 # hyprland-scripts
-A small collections of Hyprland scripts 
+A small collection of Hyprland scripts 
